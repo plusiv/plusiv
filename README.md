@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jorgmassih
 - 👀 I’m interested in the DevOps Culture and Software Define Everything (SDX)
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🤝 I’m looking to collaborate on Open Source Projects
 - 📫 You can reach me via jorgmassih@gmail.com for the meantime
 
 <!---
