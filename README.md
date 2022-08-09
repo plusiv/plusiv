@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on Open Source Projects
 - 📫 You can reach me via jorgmassih@gmail.com
 
-[![Jorgmassih's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgmassih)](https://github.com/anuraghazra/github-readme-stats)
+![Jorgmassih's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgmassih&count_private=true&show_icons=true&theme=github_dark)
 
 <!---
 Jorgmassih/Jorgmassih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
