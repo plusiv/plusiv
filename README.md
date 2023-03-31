@@ -1,8 +1,34 @@
-- 👋 Hi, I’m @plusiv
-- 👀 I’m interested in the DevOps Culture.
-- 🌱 I’m currently learning Kubernetes.
-- 🤝 I’m looking to collaborate on Open-Source Projects.
-- 📫 You can reach me via [email](jorgmassih@gmail.com) or [LinkedIn](https://linkedin.com/in/jorgmassih).
+```yaml
+---
+name: Jorge A. Massih
+role: Site Reliability Engineer
+experience: Number years
+skills:
+  - System Administration
+  - Automation
+  - Cloud Computing
+  - Monitoring and Alerting
+  - Incident Management
+  - Problem Solving
+  - Continuous Improvement
+  - Infrastructure as Code
+tools:
+  - Python, Javascript and Go
+  - Docker and Podman
+  - Kubernetes
+  - Prometheus and Grafana
+  - Github Actions and Gitlab CI
+  - Ansible
+
+about: | 
+  As a Site Reliability Engineer, I'm responsible for ensuring that systems are available, reliable, and performant. I work closely with development teams to identify and resolve issues before they impact the final users, and I'm always looking for ways to improve infrastructure and processes. In my free time, I code for the DevOps world and I enjoy exploring new technologies and tools.
+
+contact:
+  email: jorgmassih@gmail.com
+  github: https://github.com/plusiv
+  linkedin: https://linkedin.com/in/jorgmassih
+```
+
 
 ![Plusiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=plusiv&count_private=true&show_icons=true&theme=github_dark)
 
