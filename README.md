@@ -3,7 +3,7 @@
 ---
 name: Jorge A. Massih
 role: Site Reliability Engineer
-experience: +4
+experience: "+4"
 skills:
   - System Administration
   - Automation
