@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plusiv
-- 👀 I’m interested on the DevOps Culture
+- 👀 I’m interested in the DevOps Culture
 - 🌱 I’m currently learning Kubernetes
 - 🤝 I’m looking to collaborate on Open Source Projects
 - 📫 You can reach me via jorgmassih@gmail.com
