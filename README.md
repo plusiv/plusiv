@@ -22,10 +22,10 @@ tools:
   - Ansible
 
 about: | 
-  As a Site Reliability Engineer, I'm responsible for ensuring that systems are available, reliable, and performant.
-  I work closely with development teams to identify and resolve issues before they impact the final users, and I'm always
-  looking for ways to improve infrastructure and processes. In my free time, I code for the DevOps world and I enjoy 
-  exploring new technologies and tools.
+    As a Site Reliability Engineer, I am accountable for guaranteeing the accessibility, dependability, and performance of our systems. 
+    Collaborating closely with development teams, I actively seek to identify and address any issues before they can affect end-users. I am 
+    constantly on the lookout for opportunities to optimize infrastructure and refine processes. In my leisure time, I engage in coding for 
+    the DevOps sphere and remain curious about emerging technologies and tools.
 
 contact:
   email: jorgmassih@gmail.com
