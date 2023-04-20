@@ -15,18 +15,15 @@ skills:
   - Infrastructure as Code
 tools:
   - Python, Javascript and Go
-  - Docker and Podman
-  - Kubernetes
+  - Docker, Podman and Kubernetes
+  - Github Actions, Gitlab CI and Ansible
   - Prometheus and Grafana
-  - Github Actions and Gitlab CI
-  - Ansible
 
 about: | 
-    As a Site Reliability Engineer, I am accountable for guaranteeing the accessibility, dependability, and performance 
-    of our systems. Collaborating closely with development teams, I actively seek to identify and address any issues 
-    before they can affect end-users. I am constantly on the lookout for opportunities to optimize infrastructure and 
-    refine processes. In my leisure time, I engage in coding for the DevOps sphere and remain curious about emerging 
-    technologies and tools.
+    As a Site Reliability Engineer, I am accountable for guaranteeing the accessibility, and performance of systems.
+    Collaborating closely with development teams, I actively seek to identify and address any issues before they can 
+    affect end-users. I am constantly on the lookout for opportunities to optimize infrastructure and refine processes.
+    In my leisure time, I engage in coding for the DevOps sphere and remain curious about emerging technologies and tools.
 
 contact:
   email: jorgmassih@gmail.com
