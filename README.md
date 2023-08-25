@@ -1,35 +1,44 @@
 ```yaml
 # myProfile.yaml
 ---
-name: Jorge A. Massih
-role: Site Reliability Engineer
+name: Jorge Massih
+role: Cloud Engineer | Site Reliability Engineer | Backend Engineer
 experience: "+4 years"
 skills:
-  - System Administration
-  - Automation
-  - Cloud Computing
-  - Monitoring and Alerting
-  - Incident Management
-  - Problem Solving
-  - Continuous Improvement
-  - Infrastructure as Code
-tools:
-  - Python, Javascript and Go
-  - Docker, Podman and Kubernetes
-  - Github Actions, Gitlab CI and Ansible
-  - Prometheus and Grafana
+  - 💻 Computer Science
+  - ☁️ Cloud Computing
+  - 🔂 DevOps Culture
+  - 🚨 Monitoring and Alerting
+  - 🔥 Incident Management
+  - ✅ Problem Solving
+  - 📄 Infrastructure as Code
 
-about: | 
-    As a Site Reliability Engineer, I am accountable for guaranteeing the accessibility, and performance of systems.
-    Collaborating closely with development teams, I actively seek to identify and address any issues before they can 
-    affect end-users. I am constantly on the lookout for opportunities to optimize infrastructure and refine processes.
-    In my leisure time, I engage in coding for the DevOps sphere and remain curious about emerging technologies and tools.
+about: |
+    As an experienced SRE and Backend Engineer, I specialize in ensuring system reliability, scalability, 
+    and performance. I excel in automating deployment pipelines, fosteringcollaboration between teams, 
+    and swiftly responding to incidents. Proficient in Python and frameworks like Flask and FastAPI, 
+    I develop RESTful APIs and microservices, optimizing database performance and data security. 
+    With a proven track record of delivering complex projects, I'm dedicated to innovation and
+    maintaining seamless user experiences.
 
 contact:
   email: jorgmassih@gmail.com
   github: https://github.com/plusiv
   linkedin: https://linkedin.com/in/jorgmassih
 ```
+
+#### I feel confident with the following programming languages
+[![Programming Languajes](https://skillicons.dev/icons?i=py,bash,js,go,c,cpp)](https://skillicons.dev)
+
+#### I have years of experience working with thoses Cloud Service Providers
+[![Cloud Service Providers](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,firebase)](https://skillicons.dev)
+
+#### I've built houndreds of `CI/CD` pipelines with
+[![CI/CD](https://skillicons.dev/icons?i=gitlab,githubactions)](https://skillicons.dev)
+
+#### I really love to use container technologies, specially
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
 
 
 ![Plusiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=plusiv&count_private=true&show_icons=true&theme=github_dark)
