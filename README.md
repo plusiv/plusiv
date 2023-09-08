@@ -30,7 +30,7 @@ contact:
 #### I feel confident with the following programming languages
 [![Programming Languajes](https://skillicons.dev/icons?i=py,bash,js,go,c,cpp)](https://skillicons.dev)
 
-#### I have years of experience working with thoses Cloud Service Providers
+#### I have years of experience working with those Cloud Service Providers
 [![Cloud Service Providers](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,firebase)](https://skillicons.dev)
 
 #### I've built houndreds of `CI/CD` pipelines with
