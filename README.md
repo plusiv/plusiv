@@ -8,8 +8,6 @@ skills:
   - 💻 Computer Science
   - ☁️ Cloud Computing
   - 🔂 DevOps Culture
-  - 🚨 Monitoring and Alerting
-  - 🔥 Incident Management
   - ✅ Problem Solving
   - 📄 Infrastructure as Code
 
